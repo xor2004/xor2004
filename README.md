@@ -1,16 +1,15 @@
-## Hi there 👋
+## xor2004 - James Jia, MSc Statistics @ Imperial College
 
-<!--
-**xor2004/xor2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Introduction
+Hello, my name is James and I am a MSc statistics student at Imperial. I studied Joint Maths and Computing at Imperial for my undergrad, and am originally from Norway.
 
-Here are some ideas to get you started:
+Paragraph 2 placeholder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hobbies and interests:
+- Basketball
+- Disc golf
+- Running
+- Video games
+
+### Links
+[Codeforces](https://codeforces.com/profile/xor2004)
