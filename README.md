@@ -3,7 +3,7 @@
 ### Introduction
 Hello, my name is James and I am a MSc statistics student at Imperial. I studied Joint Maths and Computing at Imperial for my undergrad, and am originally from Norway.
 
-Paragraph 2 placeholder
+This page is currently a placeholder and will be updated soon! Expect to see my research and fun projects in the futur.
 
 ### Hobbies and interests:
 - Basketball
