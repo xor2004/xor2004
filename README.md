@@ -12,4 +12,4 @@ This page is currently a placeholder and will be updated soon! Expect to see my 
 - Video games
 
 ### Links
-[Codeforces](https://codeforces.com/profile/xor2004)
+[Codeforcessssssssssssssssssss](https://codeforces.com/profile/xor2004)
